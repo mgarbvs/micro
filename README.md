@@ -68,7 +68,7 @@ If your operating system does not have binary, but does run Go, you can build fr
 Make sure that you have Go version 1.5 or greater (Go 1.4 will work if your version supports CGO).
 
 ```sh
-go get -u github.com/zyedidia/micro/...
+go get -u github.com/mgarbvs/micro/...
 ```
 
 ### Linux clipboard support
